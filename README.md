@@ -1,0 +1,1 @@
+# Copy-Partitioned-Table-in-Big-Query
